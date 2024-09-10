@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Her Cute Cakes</title>
+    <link href="https://lilitha0971.github.io/hercutecakes/feed.xml" rel="self" />
+    <link href="https://lilitha0971.github.io/hercutecakes" />
+    <updated>2024-09-03T09:38:43+02:00</updated>
+    <author>
+        <name>Lilitha Malusi</name>
+    </author>
+    <id>https://lilitha0971.github.io/hercutecakes</id>
+
+    <entry>
+        <title>Her Cute Cakes </title>
+        <author>
+            <name>Lilitha Malusi</name>
+        </author>
+        <link href="https://lilitha0971.github.io/hercutecakes/her-cute-cakes.html"/>
+        <id>https://lilitha0971.github.io/hercutecakes/her-cute-cakes.html</id>
+
+        <updated>2024-09-03T08:17:22+02:00</updated>
+            <summary>
+                <![CDATA[
+                    <h1><span style="color: #000000;"><span style="color: #e03e2d;">Cute Cakes</span> for all sorts of occasions ! 🎂</span></h1>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1><span style="color: #000000;"><span style="color: #e03e2d;">Cute Cakes</span> for all sorts of occasions ! 🎂</span></h1>
+
+<p><span style="text-decoration: underline;">Her Cute Cakes </span>sells the finest confectionery and cakes in town ;) Stop by at <span style="text-decoration: underline;">5 Bakers Street, Beacon Bay</span> and taste our delicous cakes, and of course you can order a custom cake in any size, colour or flavour.....<span style="color: #236fa1;">very demure</span>...<span style="color: #e67e23;">very cutesy</span>...<span style="color: #f8cac6;">very mindful</span> 🍰</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

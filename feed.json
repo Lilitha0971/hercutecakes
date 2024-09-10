@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Her Cute Cakes",
+    "description": "",
+    "home_page_url": "https://lilitha0971.github.io/hercutecakes",
+    "feed_url": "https://lilitha0971.github.io/hercutecakes/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Lilitha Malusi"
+    },
+    "items": [
+        {
+            "id": "https://lilitha0971.github.io/hercutecakes/her-cute-cakes.html",
+            "url": "https://lilitha0971.github.io/hercutecakes/her-cute-cakes.html",
+            "title": "Her Cute Cakes ",
+            "summary": "<h1><span style=\"color: #000000;\"><span style=\"color: #e03e2d;\">Cute Cakes</span> for all sorts of occasions ! 🎂</span></h1>\n",
+            "content_html": "<h1><span style=\"color: #000000;\"><span style=\"color: #e03e2d;\">Cute Cakes</span> for all sorts of occasions ! 🎂</span></h1>\n\n<p><span style=\"text-decoration: underline;\">Her Cute Cakes </span>sells the finest confectionery and cakes in town ;) Stop by at <span style=\"text-decoration: underline;\">5 Bakers Street, Beacon Bay</span> and taste our delicous cakes, and of course you can order a custom cake in any size, colour or flavour.....<span style=\"color: #236fa1;\">very demure</span>...<span style=\"color: #e67e23;\">very cutesy</span>...<span style=\"color: #f8cac6;\">very mindful</span> 🍰</p>",
+            "author": {
+                "name": "Lilitha Malusi"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-03T08:17:22+02:00",
+            "date_modified": "2024-09-03T09:38:43+02:00"
+        }
+    ]
+}
